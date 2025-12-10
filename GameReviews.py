@@ -7,6 +7,7 @@ import csv
 import openai
 
 #declaring the OpenAI ChatCompletion API key
+#You can generate your key from your OpenAI account from the OpenAI website.
 openai_api_key = '*key-here!!*'
 
 #EXTRACTING
