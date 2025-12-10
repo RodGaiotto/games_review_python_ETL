@@ -14,6 +14,6 @@ GamesReview.py\
 games.csv
 
 # reference:
-https://colab.research.google.com/github/falvojr/santander-dev-week-2023/blob/master/SantanderDevWeek2023.ipynb /
-https://github.com/digitalinnovationone/santander-dev-week-2023-api?tab=readme-ov-file /
+https://colab.research.google.com/github/falvojr/santander-dev-week-2023/blob/master/SantanderDevWeek2023.ipynb\
+https://github.com/digitalinnovationone/santander-dev-week-2023-api?tab=readme-ov-file\
 https://digitalinnovationone.github.io/santander-dev-week-2023-api/mocks/find_one.json
